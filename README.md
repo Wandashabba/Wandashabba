@@ -9,7 +9,7 @@ I'm a software engineer who builds clean, reliable, and user-friendly apps. I wo
 - 🔭 Currently working on: [project-name](https://github.com/Wandashabba/project-name)
 - 🌱 Learning: advanced TypeScript patterns & scalable backend design
 - 👯 Open to: collaborations and open-source contributions
-- 📫 Reach me: [email@example.com](wandileshaba96@gmail.com)
+- 📫 Reach me: (wandileshaba96@gmail.com)
 
 ---
 
