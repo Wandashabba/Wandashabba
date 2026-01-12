@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Wandashabba
 
-736 contributions in the last year • Developer • Open-source enthusiast
 
 ---
 
