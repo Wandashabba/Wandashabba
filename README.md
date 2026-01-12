@@ -7,9 +7,9 @@
 I'm a software engineer who builds clean, reliable, and user-friendly apps. I work primarily with JavaScript/TypeScript, Python, and Docker, and I enjoy improving developer experience and automating workflows.
 
 
-Learning: advanced TypeScript patterns & scalable backend design
-Open to: collaborations and open-source contributions
-Reach me: (wandileshaba96@gmail.com)
+- Learning: advanced TypeScript patterns & scalable backend design
+- Open to: collaborations and open-source contributions
+- Reach me: (wandileshaba96@gmail.com)
 
 ---
 
