@@ -1,5 +1,5 @@
 # Hi, I'm Wandile Shabangu 👋
-### Backend-Focused Software Engineer | Final-Year WeThinkCode Student
+### Full Stack Focused Software Engineer 
 
 I am a results-driven Software Engineer finishing my final year at **WeThinkCode_**. I specialize in building clean, scalable backend systems and high-performance web and mobile applications. My approach combines rigorous architectural standards with a passion for solving real-world problems through maintainable code.
 
