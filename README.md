@@ -1,27 +1,39 @@
-👋 Hi, I'm Wandile Shabangu
+# Hi, I'm Wandile Shabangu 👋
+### Backend-Focused Software Engineer | Final-Year WeThinkCode Student
 
-Software Engineer
+I am a results-driven Software Engineer finishing my final year at **WeThinkCode_**. I specialize in building clean, scalable backend systems and high-performance web and mobile applications. My approach combines rigorous architectural standards with a passion for solving real-world problems through maintainable code.
 
-I build clean, scalable, and user-focused software. My work focuses on backend systems, web applications, and mobile development, with an emphasis on writing maintainable code and solving real-world problems.
+---
 
-I enjoy improving developer workflows, building reliable systems, and continuously expanding my technical toolkit.
+### 🛠️ Technical Ecosystem
 
-💡 What I'm Focused On
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, JavaScript (ES6+), TypeScript |
+| **Frameworks** | React, Node.js, Flutter, Spring Boot |
+| **Tools & DevOps** | Docker, Git, CI/CD Pipelines, RESTful APIs |
+| **Focus Areas** | Scalable Microservices, Mobile UX, Clean Architecture |
 
-Building scalable backend systems
+---
 
-Developing modern web and mobile applications
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Wandashabba&theme=react-dark&area=true&hide_border=true" />
+</p>
 
-Writing clean, maintainable, and well-documented code
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandashabba&layout=compact&theme=dark&hide=html&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Wandashabba&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
 
-Contributing to collaborative and open-source projects
+---
 
-🧰 Tech Stack
-<p> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"> </p>
-📊 GitHub Activity
-<p align="center"> <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Wandashabba&theme=react-dark&area=true&hide_border=true" /> </p> <p align="center"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandashabba&layout=compact&theme=dark&hide=html" /> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Wandashabba&show_icons=true&theme=dark&count_private=true" /> </p>
-📫 Connect With Me
+### 💡 What I'm Driven By
+* **Scalability:** Designing systems that grow seamlessly with user demand.
+* **Documentation:** Believing that code is only as good as its readability and documentation.
+* **Collaboration:** Thriving in Agile environments and contributing to the open-source community.
 
-Email: wandileshaba96@gmail.com
-
-GitHub: github.com/Wandashabba
+### 📫 Connect With Me
+* **Email:** [wandileshaba96@gmail.com](mailto:wandileshaba96@gmail.com)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **GitHub:** [@Wandashabba](https://github.com/Wandashabba)
