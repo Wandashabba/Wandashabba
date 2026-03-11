@@ -35,5 +35,5 @@ I am a results-driven Software Engineer. I specialize in building clean, scalabl
 
 ### 📫 Connect With Me
 * **Email:** [wandileshaba96@gmail.com](mailto:wandileshaba96@gmail.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/wandile-shabangu-27ab12129)
 * **GitHub:** [@Wandashabba](https://github.com/Wandashabba)
