@@ -1,7 +1,7 @@
 # Hi, I'm Wandile Shabangu 👋
 ### Full Stack Focused Software Engineer 
 
-I am a results-driven Software Engineer **. I specialize in building clean, scalable backend systems and high-performance web and mobile applications. My approach combines rigorous architectural standards with a passion for solving real-world problems through maintainable code.
+I am a results-driven Software Engineer. I specialize in building clean, scalable backend systems and high-performance web and mobile applications. My approach combines rigorous architectural standards with a passion for solving real-world problems through maintainable code.
 
 ---
 
